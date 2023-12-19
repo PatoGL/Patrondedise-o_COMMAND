@@ -1,0 +1,4 @@
+C:\Users\usuario\Documents\Patricia\obj\Debug\net8.0\Patricia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Patricia\obj\Debug\net8.0\Patricia.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Patricia\obj\Debug\net8.0\Patricia.AssemblyInfo.cs
+C:\Users\usuario\Documents\Patricia\obj\Debug\net8.0\Patricia.csproj.CoreCompileInputs.cache
